@@ -1,4 +1,4 @@
-    <style>
+
   body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -46,40 +46,33 @@
       </p>
       <hr width="100%" />
     </section>
-  
     <section>
-      
       <h2>Experiência Profissional</h2>
       <ul>
         <li>
           Programador -
           <a href="https://wildlifestudios.com/pt-br/" target="_blank" rel="noreferrer">
             Wildlife Studios</a> - Junior
-          
         </li>
       </ul>
       <hr width="100%" />
     </section>
-
     <section>
       <h2>Formação Acadêmica</h2>
       <ul>
         <li>
-         
           Curso de Desenvolvimento de Jogos -
           <a href="https://share.google/bujQc2dUxHblauvsk" target="_blank" rel="noreferrer">
             Senac
           </a>
         </li>
         <li>
-          
           Ensino Médio Completo -
           <a href="https://youtu.be/fDQSp0BcJGo?si=jL7Mtpsnrery2hGE" target="_blank" rel="noreferrer">EEEP Paulo Petrola</a>
         </li>
       </ul>
       <hr width="100%" />
     </section>
-
     <section>
       <h2>Habilidades Técnicas</h2>
       <ul>
@@ -89,7 +82,6 @@
       </ul>
       <hr width="100%" />
     </section>
-
     <section>
       <h2>Idiomas</h2>
       <ul>
@@ -98,7 +90,6 @@
       </ul>
       <hr width="100%" />
     </section>
-
     <section>
       <h2>Outras Habilidades</h2>
       <ul>
